@@ -1,4 +1,4 @@
-# RAT-Resources
+# rat-collection
 [远控]  
 [(1.6k) BlackLotus](https://github.com/ldpreload/BlackLotus)  
 [(1.1k) Dacls](https://github.com/Idov31/Nidhogg)  
