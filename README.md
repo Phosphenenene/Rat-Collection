@@ -14,3 +14,33 @@
 [(1.1k)  2023-08   r77-rootkit](https://github.com/bytecode77/r77-rootkit) r77 是一个 Ring 3 Rootkit，它隐藏了所有内容。  
 [(0.5k)  2023-08   Chaos-Rootkit](https://github.com/ZeroMemoryEx/Chaos-Rootkit) Chaos-Rootkit 是一个 x64 Ring0 Rootkit，具有进程隐藏、权限升级以及保护和取消保护进程的功能，适用于最新的 Windows 版本。  
 [(4) ProcessSpoofer](https://github.com/itsshux/ProcessSpoofer)  ProcessSpoofer可隐藏进程以防止枚举。  
+
+
+
+
+
+
+
+
+<p align="center">⚠️WARNING⚠️</p>  
+
+***
+
+<p align="center">THOSE RAT-BUILDERS ONLY FOR PERSONAL USE!</p>
+
+<p align="center">IM NOT RESPONSIBLE FOR ANY TYPE DAMAGE CAUSED BY THE USER.</p>
+
+<p align="center">RAT-collection MAY HAS BUILT-IN MALWARE, BE CAREFUL!</p>
+
+<p align="center">INFO</p>
+
+***
+
+<p align="center">Remote Access Trojan - software to remotly manipulate computer. ❗️</p>
+
+<p align="center">Those files are Malware-Builders, not samples. ⭕️</p>
+
+
+
+
+
