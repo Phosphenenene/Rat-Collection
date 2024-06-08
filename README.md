@@ -23,9 +23,9 @@
 
 ### 隐藏  
 [r77-rootkit](https://github.com/bytecode77/r77-rootkit)  
-2023-08 &nbsp;&nbsp;[1.1k]&nbsp;&nbsp; r77 是一个 Ring 3 Rootkit，它隐藏了所有内容。<br />  
+2024-05 &nbsp;&nbsp;[1.5k]&nbsp;&nbsp; r77 是一个 Ring 3 Rootkit，它隐藏进程、文件、网络连接等。开箱即用的单文件安装程序。无文件持久化、内存注入。<br />  
 [Chaos-Rootkit](https://github.com/ZeroMemoryEx/Chaos-Rootkit)  
-2023-08 &nbsp;&nbsp;[0.5k]&nbsp;&nbsp; Chaos-Rootkit 是一个 x64 Ring0 Rootkit，具有进程隐藏、权限升级以及保护和取消保护进程的功能，适用于最新的 Windows 版本。<br />  
+2024-02 &nbsp;&nbsp;[0.5k]&nbsp;&nbsp; Chaos-Rootkit 是一个 x64 Ring0 Rootkit，具有进程隐藏、权限升级以及保护和取消保护进程的功能，适用于最新的 Windows 版本。<br />  
 [ProcessSpoofer](https://github.com/itsshux/ProcessSpoofer)  
 2023-04 &nbsp;&nbsp;[4]&nbsp;&nbsp; ProcessSpoofer可隐藏进程以防止枚举。<br /><br /><br /><br />
 
