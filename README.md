@@ -1,5 +1,5 @@
 ### 远控
-[LazyOwn](https://github.com/grisuno/LazyOwn)
+[LazyOwn](https://github.com/grisuno/LazyOwn)   
 2025-06 &nbsp;&nbsp;[0.07k]&nbsp;&nbsp; LazyOwn RedTeam/APT 框架是首个搭载 AI 驱动的 C&C 的 RedTeam 框架，其特点包括用于隐藏攻击活动的 rootkit、兼容 Windows/Linux/Mac OSX 且不可检测的可塑性植入程序以及可自行配置的后门。<br />
 [BlackLotus](https://github.com/ldpreload/BlackLotus)  
 2024-03 &nbsp;&nbsp;[2.1k]&nbsp;&nbsp; BlackLotus 是专为 Windows 设计的创新 UEFI Bootkit。它包含内置安全启动旁路和 Ring0/内核保护，以防止任何删除尝试。该软件的目的是充当 HTTP 加载程序。<br /> 
@@ -14,11 +14,7 @@
 [DcRat](https://github.com/qwqdanchun/DcRat)   
 2021-03 &nbsp;&nbsp;[1.0k]&nbsp;&nbsp; DcRat 是一种远程访问工具 (RAT)，和AsyncRAT类似。<br />  
 [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)  
-2020-05 &nbsp;&nbsp;[2.5k]&nbsp;&nbsp; AsyncRAT 是一种远程访问工具 (RAT)，旨在通过安全加密连接远程监视和控制其他计算机。<br /><br />
-
-
-
-
+2020-05 &nbsp;&nbsp;[2.5k]&nbsp;&nbsp; AsyncRAT 是一种远程访问工具 (RAT)，旨在通过安全加密连接远程监视和控制其他计算机。<br /><br /><br />
 
 ### 隐藏  
 [r77-rootkit](https://github.com/bytecode77/r77-rootkit)  
@@ -28,8 +24,9 @@
 [ProcessSpoofer](https://github.com/itsshux/ProcessSpoofer)  
 2023-12 &nbsp;&nbsp;[7]&nbsp;&nbsp; ProcessSpoofer可隐藏进程以防止枚举。<br /><br /><br /><br />
 
-
-
+### Kill EDR  
+[dark-kill](https://github.com/SaadAhla/dark-kill)  
+2025-06 &nbsp;&nbsp;[0.2k]&nbsp;&nbsp; 用户模式代码及其 rootkit 将利用进程创建阻止内核回调例程注册和 ZwTerminateProcess 的功能永久终止 EDR 进程。<br />  
 
 
 
